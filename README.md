@@ -1,2 +1,2 @@
 # ML_Curso_IBM
-Videos del Curso de Machine Learning en Udemy de IBM
+Cuadernos Jupyter con lo explicado en los videos del Curso de Machine Learning en Udemy de IBM
